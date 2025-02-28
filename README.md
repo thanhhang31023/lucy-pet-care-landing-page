@@ -41,15 +41,25 @@ lucy-pet-care-landing-page
 ├── index.html
 ├── README.md
 
-
 ```
+
 ## 🚀 How to Run Locally
-1. Clone this repository:
+
+** Open **Terminal (macOS/Linux)** or **Command Prompt (Windows)** and run:
+ 
+1. **Clone this repository:**
    ```sh
    git clone https://github.com/thanhhang31023/lucy-pet-care-landing-page.git
-   ```
-2. Open `index.html` in your browser.
+2. **Navigate to the project directory:**
+```sh
+   cd lucy-pet-care-landing-page
+ ```
+3. **Open the project in VS Code:**
 
+```sh
+   code .
+ ```
+4. **Open file `index.html` in your browser.**
 
 ## 📬 Contact
 - 👤 **NGUYEN THI THANH HANG**
